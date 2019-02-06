@@ -1,3 +1,5 @@
+From: https://jekil.sexy/blog/2015/this-ovf-package-requires-unsupported-hardware.html
+
 This OVF package requires unsupported hardware.
 Details: Line 33: Unsupported hardware family 'virtualbox-2.2'.
 
